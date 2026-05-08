@@ -30,6 +30,8 @@ This is a link to where each main mod can be found. This is, in a way, scuffed c
 
 [Fast Leaf Decay](https://www.curseforge.com/minecraft/mc-mods/fast-leaf-decay)
 
+[Fusion (Connected Textures)](https://www.curseforge.com/minecraft/mc-mods/fusion-connected-textures)
+
 [JamLib](https://www.curseforge.com/minecraft/mc-mods/jamlib)
 
 [Just Enough Items (JEI)](https://www.curseforge.com/minecraft/mc-mods/jei)
