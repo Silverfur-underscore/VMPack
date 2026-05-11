@@ -6,6 +6,8 @@ This is a link to where each main mod can be found. This is, in a way, scuffed c
 
 ---
 
+[CraftTweaker](https://www.curseforge.com/minecraft/mc-mods/crafttweaker)
+
 [GlitchCore](https://www.curseforge.com/minecraft/mc-mods/glitchcore)
 
 [Jade](https://www.curseforge.com/minecraft/mc-mods/jade)
